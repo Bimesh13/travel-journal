@@ -30,3 +30,77 @@ nav {
   letter-spacing: -0.075em;
   color: #ffffff;
 }
+
+section {
+  width: 1040px;
+  margin: auto;
+  margin-top: 36px;
+  overflow: hidden;
+}
+
+.card--image {
+  width: 200px;
+  height: 260px;
+  border-radius: 8px;
+  float: left;
+}
+
+.card--content {
+  width: 700px;
+  margin-right: 100px;
+  margin-top: 60px;
+  float: right;
+}
+
+.location--details {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.location--symbol {
+  width: 9px;
+  height: 11px;
+}
+
+.location--country {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 12px;
+  letter-spacing: 0.17em;
+  color: #2b283a;
+}
+
+.location--map {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 12px;
+  color: #918e9b;
+}
+
+.location--name {
+  font-style: normal;
+  margin: 0;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 30px;
+  color: #2b283a;
+}
+
+.open--date {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 12px;
+  color: #2b283a;
+}
+
+.location--description {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  color: #2b283a;
+}
