@@ -2,7 +2,7 @@
   "name": "travel-journal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bimesh13.github.io",
+  "homepage": "https://bimesh13.github.io/travel-journal",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.16.3",
